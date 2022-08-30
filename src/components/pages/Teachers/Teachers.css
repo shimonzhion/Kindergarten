@@ -1,0 +1,12 @@
+.img-techers{
+    border-radius: 200%;
+    width: 360px;
+    height: 290px;
+}
+
+#div_cards_teachers{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
